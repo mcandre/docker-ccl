@@ -21,6 +21,7 @@ docker run --rm mcandre/docker-ccl:latest ccl -Q --batch --eval "(format t (ql:c
 ## Optional
 
 * [make](http://www.gnu.org/software/make/)
+* [Node.js](https://nodejs.org/en/) (for dockerlint)
 
 ## Debian/Ubuntu
 
